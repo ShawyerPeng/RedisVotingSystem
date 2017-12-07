@@ -1,0 +1,26 @@
+/* basic styling for RedisVote */
+
+.card {
+    background-color: #ececec;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.score {
+    color: #a60708;
+    font-size: 30px;
+    margin-right: 30px;
+}
+
+#centerPane {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.name {
+    font-size: 30px;
+}
+
+.votebtn {
+    margin-left: 90%;
+}
